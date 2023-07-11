@@ -1,3 +1,49 @@
+.trafficTop {
+    background: black;
+    width: 20px;
+    height: 100px;
+    margin: auto;
+
+}
+.container {
+    background: black;
+    width: 20%;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.red {
+    background: red;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    
+}
+
+.yellow {
+    background: orange;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+.green {
+    background: green;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+.active {
+    box-shadow: 0 0 100px rgba(225, 216, 147, 0.941);
+  }
+
+button {
+    margin: 15px;
+}
 
 /* 
 
